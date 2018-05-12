@@ -1,15 +1,16 @@
 _repo: Thekla-oder-die-Flucht-nach-der-Turkei-Epilog-zum-Staatsgefangni0xdf-Nebst-zwei-andern-Novell__46576
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46576/46576-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46576-h/images/cover.jpg
 creator:
   author:
     agent_name: Schrader, August
     gutenberg_agent_id: '43859'
     url: http://www.gutenberg.org/2009/agents/43859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46576#Thekla-oder-die-Flucht-nach-der-Turkei-Epilog-zum-Staatsgefangni0xdf-Nebst-zwei-andern-Novell_
 gutenberg_issued: '2014-08-13'
 gutenberg_type: Text
 identifiers:
